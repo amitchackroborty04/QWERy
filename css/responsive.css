@@ -1,0 +1,108 @@
+@media (min-width:320px) and (max-width:575px) {
+    .banner_subtitle {
+        font-size: 6px;
+    }
+    .banner_title {
+        font-size: 42px;
+    }
+    .banner_title1 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .continar_main {
+        padding: 217px 0;
+    }
+    .boss{
+        width: 100%;
+    }
+    .holiday_subtitle {
+        font-size: 8px;
+    }
+    .holiday_title {
+        font-size: 23px;
+        width: 281px;
+    }
+    .holiday_para {
+        font-size: 9px;
+        line-height: 16px;
+    }
+    .holiday_link {
+        font-size: 13px;
+        margin-top: 13px;
+    }
+    .steady_subtitle {
+        font-size: 14px;
+        margin-left: 105px;
+    }
+    .steady_title {
+        font-size: 22px;
+        width: 312px;
+        margin-left: 18px;
+    }
+    .steady_pra {
+        font-size: 8px;
+        line-height: 19px;
+        width: 268px;
+        margin-left: 16px;
+    }
+    .steady_link {
+        font-size: 10px;
+        font-weight: 700;
+        margin-left: 123px;
+        margin-top: 0px;
+    }
+    .culture_subtitle {
+        font-size: 13px;
+    }
+    .culture_title {
+        font-size: 19px;
+        width: 324px;
+    }
+    .culture_para {
+        font-size: 10px;
+        line-height: 22px;
+        width: 291px;
+    }
+    .culture_img {
+       width: 85%;
+    }
+    .query_subtitle {
+        font-size: 29px;
+    }
+    .query_title {
+        font-size: 25px;
+        width: 268px;
+        margin-top: 37px;
+    }
+    .query_right_subtitle {
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: 20px;
+        width: 159px;
+        margin-top: 23px;
+    }
+    .query_btn button {
+        width: 168px;
+        height: 45px;
+    }
+    .query_right_title {
+        font-size: 16px;
+       
+    }
+    .query_alldiv {
+        font-size: 11px;
+        margin-top: 14.98px;
+    }
+    .query_minititle {
+        font-size: 12px;
+        
+    }
+    .navbar{
+        
+    }
+    .amit{
+        background:rgb(127, 101, 101);
+        text-align: center;
+        border-radius: 20PX;
+    }
+}
